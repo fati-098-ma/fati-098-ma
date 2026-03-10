@@ -109,9 +109,9 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fati-098-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fati-098-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fati-098-ma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fati-098-ma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fati-098-ma&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fati-098-ma&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
