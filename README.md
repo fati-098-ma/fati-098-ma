@@ -109,37 +109,32 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fati-098-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fati-098-ma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fati-098-ma&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Streak — uses demolab.com, NOT Vercel — always works -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=fati-098-ma&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fati-098-ma&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Stats using different reliable provider -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fati-098-ma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fati-098-ma&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Muntaha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fati-098-ma&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💬 Dev Quote of the Day
+## 📈 My Numbers
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Repos](https://img.shields.io/badge/Public_Repos-7-02569B?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-29+-9B59B6?style=for-the-badge&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/Production_Projects-6+-E74C3C?style=for-the-badge&logo=rocket&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-3.89/4.00-2ECC71?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Students Served](https://img.shields.io/badge/Students_Served-5000+-FF6B6B?style=for-the-badge&logo=users&logoColor=white)
+![Awards](https://img.shields.io/badge/CodeClash_Awards-4x-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
 
 </div>
 
